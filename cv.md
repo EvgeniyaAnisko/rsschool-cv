@@ -45,3 +45,10 @@ function rgb(r, g, b){
 
 Software engineer
 Belarusian State University. _General Directorate of Accounting and Finance_
+
+## Education
+
+Belarusian State University
+Faculty of mechanics and mathematics _Qualification_: Mathematician. Designer of software and hardware systems
+Completed THE ROLLING SCOPES SCHOOL _course_:
+[JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/u0h6gh0x)
