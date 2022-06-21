@@ -41,17 +41,34 @@ function rgb(r, g, b){
 }
 ```
 
+## Project
+
+- [Virtual Keyboard](https://evgeniyaanisko.github.io/Virtual-Keyboard/dist/)
+- [CSSMemSlider](https://evgeniyaanisko.github.io/cssMemSlider/cssMemSlider/index.html)
+- [Memory game](https://evgeniyaanisko.github.io/memory-game/)
+- [Image galery](https://evgeniyaanisko.github.io/image-galery/)
+- [Photografer portfolio](https://evgeniyaanisko.github.io/project-portfolio/)
+
 ## Work experience
 
 Software engineer
+
 Belarusian State University. _General Directorate of Accounting and Finance_
 
 ## Education
 
 Belarusian State University
-Faculty of mechanics and mathematics _Qualification_: Mathematician. Designer of software and hardware systems
-Completed THE ROLLING SCOPES SCHOOL _course_:
-[JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/u0h6gh0x)
+
+Faculty of mechanics and mathematics _Qualification_: Mathematician. Designer of software and hardware systems, 2018
+
+## Courses
+
+- Completed THE ROLLING SCOPES SCHOOL _course_: [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/u0h6gh0x)
+
+## Selfstudy
+
+- [Selfstudy on Sololearn](https://www.sololearn.com/profile/3588237)
+- [Selfstudy on Codewars](https://www.codewars.com/users/EvgeniyaAnisko)
 
 ## languages
 
