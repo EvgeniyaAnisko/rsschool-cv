@@ -43,7 +43,7 @@ function rgb(r, g, b){
 
 ## Project
 
-- [Virtual Keyboard](https://evgeniyaanisko.github.io/Virtual-Keyboard/dist/)
+- [Virtual Keyboard](https://evgeniyaanisko.github.io/Virtual-Keyboard/)
 - [CSSMemSlider](https://evgeniyaanisko.github.io/cssMemSlider/cssMemSlider/index.html)
 - [Memory game](https://evgeniyaanisko.github.io/memory-game/)
 - [Image galery](https://evgeniyaanisko.github.io/image-galery/)
